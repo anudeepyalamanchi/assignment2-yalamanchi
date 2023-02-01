@@ -31,4 +31,14 @@ link to about me [click here](https://github.com/anudeepyalamanchi/assignment2-y
  | Australia | Amazing beaches and great underwater adventures like snorkelling | 30 Days |
  | France | Monuments like the Eiffel Tower , Louvre Museum and Disneyland | 30 Days |
 
+-------------------------------------------------------------------------------------------------------------
+ ## Pithy Quotes with authors
+ > "The road to hell is paved with adverbs." 
+ >> *Stephen King*
+ 
+ > "A synonym is a word you use when you can't spell the other one." 
+ >>_Baltasar Gracián_
+
+
+
 
