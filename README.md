@@ -39,6 +39,20 @@ link to about me [click here](https://github.com/anudeepyalamanchi/assignment2-y
  > "A synonym is a word you use when you can't spell the other one." 
  >>_Baltasar Gracián_
 
+--------------------------------------------------
+## code fencing for S number ending with 1
+> Comments in CSS
+
+for more info please click here <https://stackoverflow.com/questions/9812489/html-comments-in-css>
+
+```
+body {
+  font-family: system-ui;
+  font-size: 62.5%
+  line-height: 1.4;
+}
+```
+for more info please click here <https://css-tricks.com/snippets/css/comments-in-css/>
 
 
 
