@@ -5,7 +5,7 @@ My self **Naga Anudeep Yalamanch** from **india, vijayawada** came to united sta
 link to get my image [click here](https://github.com/anudeepyalamanchi/assignment2-yalamanchi/blob/main/WhatsApp%20Image%202023-02-01%20at%2010.40.57%20AM.jpeg)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
- ## table with 4 countries that i would recommend someone visit
+ ## Table with 4 countries that i would recommend someone visit
  The table below contains 4 countries that i would recommend someone to visit and number of days i have spent in that country
  
  | COUNTRY NAME | REASON | TIME SPENT |
